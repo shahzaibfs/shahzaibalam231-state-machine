@@ -1,0 +1,24 @@
+{
+  "name": "@shahzaibalam231/state-machine",
+  "version": "1.0.1",
+  "description": "Manage anytype of state like local, state, localStorage, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-state",
+    "react-query",
+    "react-state-visualizer"
+  ],
+  "author": "Muhammad shahzaib alam",
+  "license": "ISC",
+  "dependencies": {
+    "react-select": "^5.7.5"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  }
+}
